@@ -1,4 +1,4 @@
-# Azure - Chat bot
+# Azure - QnA Maker - Chat bot
 
 ## 1. Crear cuenta: 
 - [Azure for students](https://azure.microsoft.com/en-us/free/students/)
@@ -31,7 +31,6 @@
 			- Create: 🟦 Create SQL database
 			- Subscription: 
 				- Azure for students
-				- 
 
 
 De no encontrar algo puedes buscar en la parte superior con el nombre clave 🔎 subscriptions
