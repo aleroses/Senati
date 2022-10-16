@@ -268,8 +268,8 @@ Buscar extensión [JSONView](https://chrome.google.com/webstore/detail/json-view
 
 [Clase 18.08.2022 - 1era parte - Duration 1:21:54](https://senatipe-my.sharepoint.com/personal/rhuarcaya_senati_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Frhuarcaya%5Fsenati%5Fpe%2FDocuments%2FRecordings%2F202220%2DPIAD%2D608%2DTEC%2DNRC%5F30333%5F000173395%2D20220818%5F174612%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4)
 
-
-## Crear BD en Azure
+---
+## Crear BD-SQL en Azure
 [Azure for students](https://azure.microsoft.com/en-us/free/students/)
 
 - Home
@@ -320,7 +320,7 @@ Buscar extensión [JSONView](https://chrome.google.com/webstore/detail/json-view
 	- Contraseña: West-servidor-01
 - 🟦 Aceptar
 
-### Creamos una tabla
+### Creamos una tabla 
 Consulta 1 ✖
 
 ```sql
@@ -412,18 +412,51 @@ Ver panel izquierdo:
 	- El enlace que aparece en diferentes formatos e conexión se puede usar en una página web
 
 
-
-
-
-
-
-
-
-
-ver desde 1 hora
-
-
-
 [Clase 18.08.2022 - 2da parte - Duration 1:30:37](https://senatipe-my.sharepoint.com/personal/rhuarcaya_senati_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Frhuarcaya%5Fsenati%5Fpe%2FDocuments%2FRecordings%2F202220%2DPIAD%2D614%2DTAL%2DNRC%5F30339%5F000173395%2D20220818%5F191709%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4)
 
+---
 
+## Crear BD-MySQL en Azure
+- Home
+- Grupos de recursos
+- Demo-luis
+- ➕ Create 
+- Buscar Azure Database for MySQL 
+- ➕ Create 
+- Tipo de recurso: Servidor flexible (recomendado)
+- 🟦 Create 
+- 📌 Básico
+- Nombre del servidor: bd-mysql-ale
+- Región: West US
+- Tipo de carga de trabajo: Para proyectos de desarrollo o aficiones 
+- Proceso y almacenamiento: `Configurar servidor`
+- Compute tier: Flexible
+- Tamaño de proceso: Standard_B1s
+- Periodo de retención de la copia de seguridad: 1 día
+- 🟦 Guardar
+- Nombre de usuario de administrador: admi-bd-mysql
+- Contraseña: West-us-mysql
+- 🟦 Revisar y crear
+- 🟦 Crear
+- Crear servidor sin reglas de firewall
+
+Una vez creado
+- 🟦 Ir al recurso
+- Información general (Panel izquierdo)
+	- Nombre del servidor: Copiar
+
+
+Descargar **MySQL Workbench**   
+- MySQL Connections 
+
+me quede 1:52:12
+
+app services
+
+Investigar **asp.net core** Min: 1:07:01
+- ocupa menos espacio
+- se puede usar en linux
+- se puede trabajar con vsc
+
+
+[Clase 22/08/2022](https://senatipe-my.sharepoint.com/:v:/r/personal/rhuarcaya_senati_pe/Documents/Recordings/202220-PIAD-614-TAL-NRC_30339_000173395-20220822_173242-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=I6xHdp)
