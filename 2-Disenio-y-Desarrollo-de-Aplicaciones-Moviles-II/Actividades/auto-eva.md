@@ -140,9 +140,105 @@
     
     </Crean una plantilla en C#ContentPage>
 ```
-	
     1. ✅ Crean una plantilla en XAML
     2.  Crean una plantilla en C#
     3.  Es un constructor en Java
     4.  IndicatorView
     5.  ListView
+
+
+## Autoevaluación T03
+
+1.  Pregunta 1     
+    Es un patrón de diseño que tiene por finalidad separar la parte de la interfaz del usuario de la parte de la lógica del negocio, logrando así que la parte visual sea totalmente independiente.
+    
+    1.  Swift.
+    2.  Data Triggers
+    3.  Jdk
+    4.  ✅ MVVM
+    5.  Windows 
+
+2.  Pregunta 2    
+    En cuantas partes se divide MVVM.
+    
+    1.  12
+    2.  2
+    3.  ✅ 3
+    4.  4
+    5.  5
+
+3.  Pregunta 3    
+    Se encarga de interactuar tanto con el modelo como con la vista.
+    
+    1.  Model 
+    2.  Views 
+    3.  MainActivity.cs
+    4.  ✅ View Models 
+    5.  Strings.xml
+
+4.  Pregunta 4     
+    La imagen representa    
+    ![imagen.png](https://senati.blackboard.com/bbcswebdav/pid-17588919-dt-asiobject-rid-76399350_1/xid-76399350_1)
+	
+    1.  Model 
+    2.  Views 
+    3.  MainActivity.cs
+    4.  View Models 
+    5.  MVVM
+
+5.  Pregunta 5     
+    Es la parte visual de una aplicación:
+    
+    1.  Model 
+    2.  MainActivity.cs
+    3.  View Models 
+    4.  Views 
+    5.  Strings.xml
+
+
+## Autoevaluación T04
+
+1.  Pregunta 1    
+    Son herramientas que nos permite armar y enviar peticiones REST para testear una comunicación entre cliente y servidor.
+    
+    1.  Web Services
+    2.  API
+    3.  ✅ Servicios REST.
+    4.  Servicios SOAP
+    5.  Envío de SMS.
+   
+2.  Pregunta 2     
+    Hablamos de una arquitectura divididas por niveles que se utilizaba para hacer un servicio, es más complejo de montar como de gestionar y solo trabajaba con XML.
+    
+    1.  GET
+    2.  POST
+    3.  REST
+    4.  ✅ SOAP
+    5.  PUT
+
+3.  Pregunta 3     
+    En la lista, que ítem no pertenece a un método que se apoya el REST.
+    
+    1.  ✅ URL
+    2.  Patch 
+    3.  Delete 
+    4.  Post
+    5.  Get
+
+4.  Pregunta 4      
+    Dentro del servicio REST el método POST sirve para:
+    
+    1.  Para obtener un recurso en concreto 
+    2.  Para borrar un recurso, un dato por ejemplo de nuestra base de datos. 
+    3.  Modificar
+    4.  ✅ Para crear recursos nuevos 
+    5.  Para modificar un recurso que no es un recurso de un dato, por ejemplo.
+
+5.  Pregunta 5     
+    Dentro del servicio REST el método PATCH sirve para:
+    
+    1.  ✅ Para modificar un recurso que no es un recurso de un dato, por ejemplo.
+    2.  Para borrar un recurso, un dato por ejemplo de nuestra base de datos.
+     3.  Para modificar.
+    4.  Para obtener un lichado o un recurso en concreto.
+    5.  Para crear recursos nuevos.
