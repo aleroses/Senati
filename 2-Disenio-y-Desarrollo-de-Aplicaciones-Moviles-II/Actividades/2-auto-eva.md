@@ -242,3 +242,51 @@
      3.  Para modificar.
     4.  Para obtener un lichado o un recurso en concreto.
     5.  Para crear recursos nuevos.
+
+
+## Autoevaluación T05
+
+1.  Pregunta 1    
+    Para publicar un proyecto Xamarin, primero que se debe de hacer es
+    
+    1.  Seleccionar la opción people
+    2.  Play Store Connect
+    3.  Instalar APPSER
+    4. ✅ Certificates, Identifiers & Profiles 
+    5.  Modelo Verificación Vista-Modelo
+    
+2.  Pregunta 2     
+    El certificado que se debe de crear para publicar una aplicación es
+    
+    1.  Apple Development  
+    2. ✅ Apple Distribution 
+    3.  iSO Apple Development  
+    4.  Mac Development
+    5.  Mac App Distribution
+    
+3.  Pregunta 3     
+    Para publicar la aplicación necesitamos un identificador para nuestra aplicación, por lo que seleccionaremos la opción
+    
+    1.  Services IDs
+    2.  Pass Type IDs
+    3.  Website Push IDs
+    4.  iCloud Containers
+    5. ✅ App IDs
+    
+4.  Pregunta 4     
+    Para crear el identificador de nuestra aplicación, la opción correcta es
+    
+    1.  Certificates
+    2. ✅ Identifiers
+    3.  Devices
+    4.  Profiles
+    5.  Keys
+    
+5.  Pregunta 5     
+    Es el proceso de compilación de una aplicación de Xamarin.Android para que esté lista para que los usuarios la instalen en sus dispositivos
+    
+    1.  Inicio del proyecto
+    2. ✅ Publicar el proyecto
+    3.  Utilizar patrones MVVM
+    4.  La depuración de un proyecto
+    5.  Una forma es simplemente agregar su ViewModel
