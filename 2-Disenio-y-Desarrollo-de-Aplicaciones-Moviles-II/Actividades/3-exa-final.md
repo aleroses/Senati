@@ -326,6 +326,8 @@ Que significa REST
 
 📌📌📌📌📌  📌
 
+## Examen Final
+
 ⭐ Pregunta 1
 
 ¿Qué es REST?
@@ -811,3 +813,147 @@ En MVVM, ¿cuál es la parte visual de la aplicación
 - Strings.xml
 - MainActivity.cs
 - ✅ Views
+
+
+
+## Examen Final: 18  
+
+1. A que está asociada la siguiente expresión, “Crear una plantilla de datos con un tipo y creación de una plantilla de datos como recurso”?
+    1.  Datareport
+    2. ✅ Data Template
+    3.  Database
+    4.  DataMart
+    5.  Dataform
+    
+2. ¿Qué instrucción debemos ingresar para crear un objeto lv con la clase ListViwe()? 
+    1.  lv = ListView[ Iv];.
+    2.  lv = (new ListView());.
+    3. ✅ lv = new ListView();
+    4.  lv = ListView();
+    5.  lv = new List;
+    
+3. ¿Cuál no es un paso para definir un ListView?
+	1.  Diseñar un layout individual que se repetirá en la lista
+	2.  Personalizar cada uno de lo layouts individuales según nuestros datos
+	3.  Implementar una actividad que lo visualice el layout
+	4.  Diseñar un layout que lo contenga al listview
+	5. ✅ Crear un objeto conexión a la fuente de datos
+    
+4. Que opción se utiliza para poder hacer gestos de desplazamiento hacia izquierda o derecha
+    1.  Scroller
+    2.  Widget
+    3.  SingleMode
+    4. ✅ SwipeView
+    5.  ListView
+    
+5. No es una ventaja de REST
+    1.  Depende de la plataforma de uso, principalmente Android
+    2.  Puede convertirse las APIs en públicas para su uso general
+    3. ✅ Google y Facebook usan API REST
+    4.  Nos permite separar el cliente del servidor.
+    5.  Brinda escalabilidad
+    
+6. ¿Qué es REST?
+    1.  Protocolo estándar que posibilita que dos objetos se puedan comunicar
+    2. ✅ Es un estilo de arquitectura software que define un conjunto de principios para el diseño de servicios web
+    3.  Se trata de un formato para describir servicios web
+    4.  Formato ligero para el intercambio de datos
+    5.  Es un meta lenguaje que permite definir lenguajes de marcado
+    
+7. ¿Qué librería se debe usar para realizar peticiones usando los verbos HTTP y utilizar con notaciones Java?
+    1.  Converter-gson
+    2.  Implementation
+    3.  AndroidManifest
+    4. ✅ Retrofit
+    5.  JSONPlaceholder
+    
+8. ¿Es correcto afirmar sobre servicios REST?
+    1. ✅ Son herramientas que nos permite armar y enviar peticiones REST para testear una comunicación entre cliente y servidor
+    2.  Son herramientas para el análisis de datos
+    3.  Son herramientas CASE 
+    4.  Son herramientas para DataMart
+    5.  Son herramientas para Casos de uso
+    
+9. ¿Cuál es un proceso esencial para la publicación de proyectos con Xamarin? 
+    1.  Distribución
+    2.  Implementación de Diagrama de procesos
+    3.  Informar al desarrollador web
+    4. ✅ Realizar el cronograma de publicaciones
+    5.  Diseñar los objetos del proyecto web
+    
+10. Indique la característica incorrecta de publicar una aplicación en Google Play
+    1. ✅ Se requiere exclusivamente un archivo APK
+    2.  Solo el desarrollador de la aplicación podrá crear actualizaciones
+    3.  Se debe de generar un archivo firmado
+    4.  Se requiere un certificado
+    5.  Registrar la cuenta del desarrollador
+    
+11. ¿Qué debemos quitar del archivo manifiesto como mínimo para configurar una App para el lanzamiento?
+    1.  Código residual
+    2. ✅ Las llamadas log y el atributo debuggable
+    3.  Código no compilado
+    4.  Archivos de compilación
+    5.  Archivos de código fuente
+    
+12. ¿Cuál es una de las tiendas de Google para publicar una aplicación móvil Android?
+    1.  Visual Studio
+    2.  Store IOs
+    3. ✅ Google Play Store
+    4.  Xamarin
+    5.  Google Ads
+    
+13. Contiene la lógica de presentación. Implementa propiedades y comandos que definen funcionalidad que tomará dicha aplicación. ¿A qué hace referencia el enunciado?
+    1.  Controler
+    2. ✅ View
+    3.  ViewModel
+    4.  Model
+    5.  ModelControler
+    
+14. Las siglas MVVM significan:
+    1.  Machine Vox – Vox Machine
+    2. ✅ Model–view–viewmodel
+    3.  Master Value – Value Machine
+    4.  Machine Virtual – Vintage Machine
+    5.  Machine Virtual Virtual Machine
+    
+15. En MVVM, es un actor intermediario entre el modelo y la vista, contiene toda la lógica de presentación y se comporta como una abstracción de la interfaz.
+    1.  Patrón MVVM
+    2.  Binders
+    3. ✅ ViewModel
+    4.  View
+    5.  Model
+    
+16. ¿Qué tipo de prueba podemos realizar en MVVM?
+    1.  Test fact
+    2.  Testing
+    3.  Deploy test
+    4.  Deploy Testing
+    5. ✅ Unit test
+    
+17. ¿A qué se refiere la expresión “hace referencia a un escenario de interfaz de usuario donde se posee una lista de elementos homogéneos y se permite obtener una vista detallada del elemento en una porción más extensa de UI”?
+    1. ✅ Master- detail
+    2.  Diseño web responsivo
+    3.  Interfaz gráfica
+    4.  Gamificación 
+    5.  Experiencia del usuario
+    
+18. Un panel deslizante cuyo objetivo es dotar al usuario con una navegación más cómoda es:
+    1.  Android Studio
+    2.  Xcode
+    3.  Xamarin
+    4.  Un slider
+    5. ✅ Navigation Drawer
+    
+19. Es el diseño de la interfaz de usuario de la computadora, muestra una lista y los detalles del elemento seleccionado actualmente
+    1.  Xamarin
+    2.  Uso de APIs disponibles con C#
+    3. ✅ Master–detail
+    4.  Drawer Navigation
+    5.  Mediante Visual Studio 
+    
+20. ¿Cuál es una ventaja asociada con Xamarin?
+    1.  Asigna permiso de usuario al servidor web
+    2.  Permite acelerar el tráfico de la web.
+    3.  Es una plataforma web.
+    4.  Es una librería JSON.
+    5. ✅ Capacidad de compartir su código en todas las plataformas
