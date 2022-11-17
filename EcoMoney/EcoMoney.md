@@ -202,3 +202,111 @@ https://console.firebase.google.com/project/ecomoney-13888/database/ecomoney-138
 	- Modelo
 		- Moneda:
 		- Puntosmeta:
+
+## 15. Página de configuraciones
+
+Crear dentro de Vistas: 
+Vistas + Config + `Menuconfig.xaml`
+
+## 16. Centrado de elementos
+
+## 17. Scrollview 
+
+## 18. ¿Qué es el patrón de software MVVM?
+
+Ver apuntes de platzi DMP
+
+## 19. MVVM modo practico 
+
+## 20. Base vista modelo 
+
+VistaModelo: 
+Clase: VMmenuprincipal.cs
+Clase: BaseViewModel.cs
+
+## 21. BaseViewModel 
+
+Ver código `BaseViewModel.cs` de otros proyectos o de los apuntes tomados anteriormente. 
+
+## 22. Asignar un command a un StackLayout 
+
+Agregamos el `VMpatron.cs` ver apuntes o copiar código de proyectos.  
+
+## 23. Página recolectores 
+
+VistaModelo   
+Clase: VMmenuconf.cs
+
+Config:   
+Nuevo elemento: Xamarin.Forms: Página de contenido: `Recolectoresconfig.xaml`   
+
+## 24. Conexión a Firebase  
+
+Administrar paquetes nuget   
+- FirebaseDatabase.net: Para la conexión a la BD
+- FirebaseAuthentication.net: Para correo y contraseña 
+
+Conexiones:   
+- Clase: Constantes.cs
+
+Obtener enlace Firebase:    
+- Realtime Database
+- Copiar: https://ecomoney-13888-default-rtdb.firebaseio.com sin la / del final y luego se la vuelves a colocar en Visual studio XD
+
+Datos:   
+- Clase: `Drecolectores.cs`  
+
+Modelo:    
+- Clase: `Mrecolectores.cs`
+
+## 25. Página recolectores 
+
+## 26. Datos insertar recolectores 
+
+VistaModelo:    
+- Clase: VMrecolectoresconfig.cs
+
+## 27. Probando el insertar recolectores  
+
+https://ecomoney-13888-default-rtdb.firebaseio.com/
+
+Compilación - Realtime Database - Reglas 
+
+```sql
+{
+  "rules": {
+    ".read": "auth==null",
+    ".write": "auth==null"
+  }
+}
+```
+
+Publicar 
+
+## 28. Crear correo y contraseña  
+
+En Firebase:   
+- Compilación
+- Authentication 
+- Comenzar
+- Correo electrónico - Habilitar 
+- Guardar 
+
+Descripción general ⚙ Configuración del proyecto    
+- Copiar: Clave de API web 
+- AIzaSyBAuFoH3nLHEuZxrVrR7PId37tkOpyEv0g
+
+En Visual Studio    
+Conexiones:    
+- Constantes .cs
+
+Contraseña de 6 dígitos 
+
+## 29. Datos productos 
+
+
+
+
+
+## 30. VM productos 
+
