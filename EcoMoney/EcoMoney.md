@@ -304,9 +304,19 @@ Contraseña de 6 dígitos
 
 ## 29. Datos productos 
 
+Config:     
+- Nuevo elemento: XamarinForms - Página de contenido 
+- Productosconfig.xaml
 
+VistaModelo:    
+- Clase: VMproductosconfig.cs
 
+Modelo:   
+- Clase: Mproductos.cs
 
+Datos:   
+- Clase: Dproductos.cs
+- Clase: Dpatron.cs
 
 ## 30. VM productos 
 
