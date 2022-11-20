@@ -393,3 +393,26 @@ VistaModelo:
 EcomoneyCliente.Android    
 - Carpeta: Controles - Clase: StatusBar.cs
 - Administrar paquetes NuGet: Examinar: Plugin.CurrentActivity
+
+## 44. Transparentar statusbar 
+
+VistaModelo:   
+- Clase: VMlogin.cs
+
+## 45. Conexión 
+
+Conexiones:   
+- Clase: Constantes.cs
+
+Solución "EcomoneyCliente"    
+- Administrar paquetes NuGet para la solución: 
+- Examinar: FirebaseDatabase.net
+
+Datos:   
+- Clase: Dclientes.cs
+- Clase: Dsolicitudesrecojo.cs
+
+En Firebase: Clientes: sacamos datos
+
+Modelo:   
+- Clase: Mclientes.cs 
