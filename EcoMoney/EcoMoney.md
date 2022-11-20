@@ -208,6 +208,8 @@ https://console.firebase.google.com/project/ecomoney-13888/database/ecomoney-138
 Crear dentro de Vistas: 
 Vistas + Config + `Menuconfig.xaml`
 
+Nota: Ver diseño para mejorarlo. 
+
 ## 16. Centrado de elementos
 
 ## 17. Scrollview 
@@ -239,6 +241,8 @@ Clase: VMmenuconf.cs
 
 Config:   
 Nuevo elemento: Xamarin.Forms: Página de contenido: `Recolectoresconfig.xaml`   
+
+Activación flecha volver
 
 ## 24. Conexión a Firebase  
 
@@ -320,3 +324,72 @@ Datos:
 
 ## 30. VM productos 
 
+## 31. Insertar productos 
+
+## 32. Datos solicitudes 
+
+Modelo:   
+- Clase: Msolicitudesrecojo.cs
+
+Datos:    
+- Clase: Dsolicitudesrecojo.cs
+
+## 33. Ejecutar comando contenido en una lista 
+
+Vistas:   
+- Nuevo elemento: XamarinForms - Página de contenido
+- Asignaciones.xaml
+
+## 34. Rescate datos de una lista 
+
+## 35. Página asignaciones 
+
+revisar ScrollView
+
+VistaModelo:    
+- Clase: VMasignaciones.cs   
+
+Datos:   
+- Clase: Dasignaciones.cs  
+
+Modelo:   
+- Clase: Masignaciones.cs
+
+## 36. Buscar recolectores 
+
+
+## Section 3: App Cliente 
+## 39. Crear el proyecto 
+
+EcomoneyCliente:  
+- Conexiones
+- Datos   
+- Modelo
+- VistaModelo: 
+	- Clase: BaseViewModel.cs
+- Vistas
+
+## 40. Página login
+
+Solución "EccobankCliente"    
+- Administrar paquetes NuGet para la solución 
+- Examinar: Xamarin.Forms.PancakeView
+- Marcar todo
+- Instalar 
+
+Vistas:   
+- Nuevo elemento: Xamarin.Forms - Página de contenido 
+- Login.xaml
+
+## 41. Agregar button
+
+## 42. Aplicar degradado 
+
+## 43. Agrega clases de Status bar
+
+VistaModelo:  
+- Clase: VMstatusbar.cs
+
+EcomoneyCliente.Android    
+- Carpeta: Controles - Clase: StatusBar.cs
+- Administrar paquetes NuGet: Examinar: Plugin.CurrentActivity
