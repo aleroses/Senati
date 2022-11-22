@@ -450,3 +450,39 @@ Modelo:
 
 ## 54. Modelado detalle compra
 
+Modelo:  
+- Clase: Mproductos.cs
+
+Datos:   
+- Clase: Dproductos.cs 
+
+## 55. Pasar datos entre VM
+
+## 56. Disminuir bucles 
+
+En Firebase debemos tener datos en: 
+- Detallecompra: Idcliente debe existir en tabla Clientes: 
+
+Debe aparecer:   
+Precio de compra por KG = S/. 0.3 
+Precio de compra por KG = S/. 0.3 
+Precio de compra por KG = S/. 0.3 
+Precio de compra por KG = S/. 0.3 
+
+📌 Revisar: no aparecen los datos al final de la app
+
+## 57. Detalle compras terminado 
+
+## 58. Enlazando datos 
+
+No se ven:   
+- Nombre del cliente
+- Foto fachada
+- Total cobrado
+- Total por cobrar
+- Detalles de productos
+
+## 59. Puntos 
+
+## 60. Kg acumulados 
+
