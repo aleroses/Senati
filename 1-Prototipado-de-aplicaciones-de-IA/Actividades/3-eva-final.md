@@ -5,6 +5,7 @@
 ### Fari - 02 errores 🟣 ✅ ❌
 1. Pregunta 1   
 ¿A qué se refiere la expresión, “Es la salida de información que se genera cuando entrena su algoritmo de machine learning con datos”
+
     - Modelo de datos
     - Modelo de atributos.
     - Modelos de casos
@@ -13,7 +14,7 @@
 
 
 2. Pregunta 2     
-Qué interfaces pueden usar los desarrolladores para conectarse a Azure Machine Learning
+Qué interfaces pueden usar los desarrolladores para conectarse a Azure Machine Learning    
     - A través de API REST
     - A través de Azure ExpressRoute
     - 🟣 A través de httphttps
@@ -22,7 +23,7 @@ Qué interfaces pueden usar los desarrolladores para conectarse a Azure Machine 
 
 
 3. Pregunta 3     
-¿Cuál es una ventaja asociada con Machine Learning
+¿Cuál es una ventaja asociada con Machine Learning   
     - Documentador de sistemas
     - 🟣 Usuario
     - Analista de sistemas

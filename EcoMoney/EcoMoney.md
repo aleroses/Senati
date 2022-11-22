@@ -416,3 +416,37 @@ En Firebase: Clientes: sacamos datos
 
 Modelo:   
 - Clase: Mclientes.cs 
+
+## 46. Vista modelo Cliente
+
+Vistas:   
+- Nuevo elemento: Xamarin.Forms - Página de contenido: Menu.xaml
+
+## 47. Primer prueba 
+
+## 48. Diseño del menu
+
+VistaModelo:   
+- Clase: VMmenu.cs
+
+VistaModelo:   
+- Clase: VMpatron.cs
+
+## 49. Bloque usuario 
+
+## 50. Bloque totales
+
+## 51. Redondear imagen 
+
+## 52. Bloque puntos acumulados 
+
+## 53. Bloque detalle compra
+
+Datos:   
+- Clase: Ddetallecompra.cs
+
+Modelo:   
+- Clase: Mdetallecompra.cs
+
+## 54. Modelado detalle compra
+
