@@ -486,3 +486,39 @@ No se ven:
 
 ## 60. Kg acumulados 
 
+## 61. Implementar Skeleton 
+
+EcomoneyCliente:    
+- Administrar paquetes NuGet 
+- Examinar: Xamarin.Forms.Skeleton 
+- Instalar 
+
+## 62. Skeleton terminado 
+
+## 63. Pasar datos entre VM
+
+Vistas:    
+- Nuevo elemento: XamarinForms - Página de contenidos  
+- Solicitud.xaml
+
+VistaModelo:   
+- Clase:  VMsolicitud.cs
+
+## 64. Diseño de solicitudes 
+
+## 65. Modelado solicitud 
+
+Modelo:   
+- Clase: Msolicitud.cs
+
+## 66. Validaciones 
+
+## 67. Mostrar turnos 
+
+Modelo:   
+- Clase: Mturno.cs
+
+Datos:   
+- Clase: Dturno.cs
+
+## 68. Date picker
