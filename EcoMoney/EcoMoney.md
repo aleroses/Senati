@@ -522,3 +522,9 @@ Datos:
 - Clase: Dturno.cs
 
 ## 68. Date picker
+
+## 69. Detalle compra 
+
+Vista:  
+- Nuevo elemento: Xamarin.Forms - Página de contenido 
+- Detallecompra.xaml
