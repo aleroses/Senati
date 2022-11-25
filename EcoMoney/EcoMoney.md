@@ -528,3 +528,83 @@ Datos:
 Vista:  
 - Nuevo elemento: Xamarin.Forms - Página de contenido 
 - Detallecompra.xaml
+
+
+## Section 4: App recolector 
+## 71. Creación del proyecto 
+
+- Crear un proyecto 
+- C# + Todas las plataformas + Móvil 
+- Aplicación móvil (Xamarin.Forms) 
+	- C# - Android - iOS - Windows - Móvil
+
+EcoMoney:   
+- EcomoneyRecolector: 
+	- Conexiones 
+	- Datos 
+	- Modelo
+	- VistaModelo
+	- Vista
+
+## 72. Página Login 
+
+Vista:   
+- Nuevo elemento: Xamarin.Forms - Página de contenido 
+- Login.xaml
+
+## 73. Diseño 
+
+IsPassword = "True"
+
+## 74. VM patrón 
+
+Vista:   
+- Nuevo elemento: Xamarin.Forms - Página de contenido 
+- Menuprincipal.xaml
+
+Solución "EcomoneyRecolector":    
+- Administrar paquete NuGet para la solución: 
+- `Examinar:` Xamarin.Forms.PancakeView    
+- Seleccionar todo - Instalar  
+- `Examinar:` Sharpnado.Shadows 
+
+VistaModelo:   
+- Clase: VMlogin.cs
+- Clase: BaseViewModel.cs
+- Clase: VMpatron.cs
+- Clase: VMstatusbar.cs
+
+Modelo:   
+- Clase: Mlogin.cs
+
+Datos:   
+- Clase: Drecolectores.cs
+
+## 75. Conexión a Firebase 
+
+Conexión:   
+- Clase: Constantes.cs 
+
+Solución "EcomoneyRecolector"    
+- Administrar paquetes NuGet para la solución: 
+- Examinar: FirebaseDatabase.net
+
+## 76. Inicio de sesión  
+
+Solución "EcomoneyRecolector"    
+- Administrar paquetes NuGet para la solución: 
+- `Examinar:` Acr.UserDialogs
+	- `Versión:` 7.1.0.514
+- `Examinar:` FirebaseAuthentication.net
+
+## 77. Statusbar 
+
+Solución "EcomoneyRecolector"    
+- Administrar paquetes NuGet para la solución: 
+- `Examinar:` Xamarin.Plugin.SharedTransitions
+
+EcomoneyRecolector.Android:    
+- Carpeta: Controles
+	- Clase: StatusBar.cs
+- Administrar paquetes NuGet
+- Examinar: Plugin.CurrentActivity
