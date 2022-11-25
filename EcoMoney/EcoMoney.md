@@ -608,3 +608,46 @@ EcomoneyRecolector.Android:
 	- Clase: StatusBar.cs
 - Administrar paquetes NuGet
 - Examinar: Plugin.CurrentActivity
+
+## 78. Diseño menu principal
+
+diego@mail.com - diego1234
+
+## 79. Bloque de recolector 
+
+## 80. Proporciones 
+
+## 81. Paginas de navegación 
+
+VistaModelos:   
+- Clase: VMmenuprincipal.cs
+
+Vista:   
+- Nuevo elemento: Xamarin.Forms - Página de contenido 
+- Agregarcliente.xaml
+- Nuevo elemento: Xamarin.Forms - Página de contenido 
+- Mapear.xaml
+
+## 82. Contador de asignaciones 
+
+Modelo:   
+- Clase: Masignaciones.cs
+
+Datos:   
+- Clase: Dasignaciones.cs
+
+## 83. Registro de clientes 
+
+## 84. Geolocalizar 
+
+## 85. Mostrar animaciones
+
+Solución "EcomoneyRecolector"   
+- Administrar paquetes NuGet: 
+- Examinar: Com.Airbnb.Xamarin.Forms.Lottie
+- Versión: 4.0.10
+
+
+[LottieFiles: Download Free lightweight animations for website & apps.](https://lottiefiles.com/)
+
+Descargar en formato: Lottie JSON
