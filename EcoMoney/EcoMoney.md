@@ -650,4 +650,39 @@ Solución "EcomoneyRecolector"
 
 [LottieFiles: Download Free lightweight animations for website & apps.](https://lottiefiles.com/)
 
-Descargar en formato: Lottie JSON
+Descargar en formato: **Lottie JSON**
+
+## 86. Subir foto a Store 
+
+Modelo:   
+- Clase: Mclientes.cs
+
+Datos:  
+- Clase: Dclientes.cs
+
+En Firebase:   
+- Compilación: Storage
+- us-west3
+- Carpeta: Fachadasclientes
+
+Solución "EcomoneyRecolector"    
+- Administrar paquetes NuGet
+- FirebaseStorage.net
+
+## 87. Mostrar listas
+
+VistaModelo:   
+- Clase: VMclientes.cs
+
+Modelo:  
+- Clase: Mubicaciones.cs
+
+Datos:   
+- Clase: Dubicaciones.cs
+
+Solución "EcomoneyRecolector"   
+- Administrar paquetes NuGet para la solución 
+- Examinar: Xam.Plugin.Media 
+
+## 88. Asignar objetos 
+
