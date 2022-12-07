@@ -686,3 +686,187 @@ Solución "EcomoneyRecolector"
 
 ## 88. Asignar objetos 
 
+## 89. Selectores 
+
+Vista:   
+- Nuevo elemento: Xamarin.Forms - Página de contenido 
+- Paglocalizar.xaml
+
+## 90. Seleccionar items
+
+EcomoneyRecolector.Android: Dar permisos   
+- Propiedades 
+- Manifiesto de Android
+- Permisos necesarios: 
+	- Buscar: Dar Check
+	- Camera
+	- Internet
+	- Access_coarse_location
+	- Access_fine_location
+	- Access_mock_location
+
+## 91. Consumo de servicios de google maps 
+
+Solución "EcomoneyRecolector"   
+- Administrar paquetes NuGet para la solución 
+- Examinar: Xamarin.Forms.GoogleMaps
+- Versión: 3.3.0
+
+En google: Google developer console     
+- https://console.cloud.google.com/projectselector2/apis/dashboard?pli=1&supportedpurview=project
+- Perú
+- Aceptar todo 
+- ¿Cómo planeas usar Google Cloud?
+- Analizar datos 
+
+Crear proyecto:   
+- Nombre: EcoMoney
+- Sin organización 
+- Crear
+
+Habilitar API y Servicios   
+- Maps SDK for Android
+- Habilitar 
+
+Cuenta: alx.vroses@gmail.com
+
+
+Credenciales:    
+- Crear credenciales: Clave de API
+- AIzaSyD07p-6HM92_eIEXTbcvQP1gNYCRhl65Bw
+
+
+En el proyecto    
+EcomoneyRecolector.Android:   
+- Clase: Activitymaps.cs
+
+No funciona: NuGet PackageReference Upgrader
+
+
+Paquete NuGet: Xam.Plugin.ExternalMaps
+
+## 92. Página de geolocalización 
+
+
+## 93. Obtener ubicación actual 
+
+img punto ubicación: 64x64
+
+
+## 94. Obtener coordenadas 
+
+
+## 95. Pruebas en dispositivo físico 
+
+Solución "EcomoneyRecolector.Android"   
+- Administrar paquetes NuGet para la solución 
+- Examinar: Xamarin.GooglePlayServices.Maps
+- Versión: 117.0.1
+
+En caso el paquete anterior no se instale debes instalar: 
+- `Xamarin.Android.Support.V7.AppCompat` 
+
+
+Descargar camión 64 x 64
+
+Proyector de pantalla: `Apowermirror`
+
+
+## 96. Pruebas toma de foto 
+
+Proyecto Android:    
+- Carpeta: Resources
+- Carpeta: xml 
+	- Nuevo elemento: Datos - Archivo XML: name: file_paths.xml
+
+
+## 97. Prueba de registro de cliente
+
+
+## 98. Diseño de mapeado
+
+
+## 99. Solicitudes de recojo 
+
+Modelo:   
+- Clase: Msolicitudesrecojo.cs
+
+Datos:   
+- Clase: Dsolicitudesrecojo.cs
+
+
+## 100. Modelado turnos 
+
+Modelo:   
+- Clase: Mturnosrecojo.cs
+
+Datos:   
+- Clase: Dturnosrecojo.cs
+
+
+## 101. Cargar datos
+
+
+## 102. Mapear puntos 
+
+
+## 103. Ver cliente 
+
+Vista:   
+- Nuevo elemento: Xamarin.Forms + Página de contenido 
+- Vercliente.xaml
+
+
+## 104. Botón ir 
+
+Solución "EcomoneyRecolector"   
+- Administrar paquetes NuGet para la solución   
+- Xam.Plugin.ExternalMaps (4.0.1)
+
+## 105. VMregistro de compras  
+
+Vista:   
+- Nuevo elemento: xamarin.Forms - Página de contenido
+- RegCompras.xaml
+
+VistaModelo:  
+- Clase: VMregCompras.cs
+
+Datos:   
+- Clase: Dproductos.cs
+
+Modelo:   
+- Clase: Mproductos.cs
+
+
+## 106. Diseño de registro de compras
+
+## 107. Panel contador
+
+## 108. Compartir datos entre VM
+
+Vista:   
+- Nuevo elemento: Xamarin.Forms - Pagina de contenido
+- Agregarcompra.xaml
+
+VistaModelo:   
+- Clase: VMagregarcompra.cs
+
+## 109. Asignar comando a frame
+
+## 110. Diseño agregar compra
+
+
+## 111. Insertar detalle compra
+
+Modelo:   
+- Clase: Mdetallecompras.cs
+
+Datos:   
+- Clase: Ddetallecompras.cs
+
+## 112. Función sumar total 
+
+## 113. Problema de actualizaciones 
+
+## 114. Actualizar procesos independientes 
