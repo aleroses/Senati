@@ -870,3 +870,41 @@ Datos:
 ## 113. Problema de actualizaciones 
 
 ## 114. Actualizar procesos independientes 
+
+
+## 115. Eliminar compras sin confirmar 
+
+## 116. Diseño confirmar compra 
+
+## 117. Confirmar detalle compras 
+
+## 118. Animación up
+
+Google: Easing Xamarin fomrs 
+
+
+App.xaml.cs = public App()
+
+```c#
+MainPage = new NavigationPage(new Login());
+
+//Tambien 
+MainPage = new NavigationPage(new RegCompras());
+```
+
+
+## 119. Animación Down
+
+
+## 120. Eliminar solicitudes 
+
+
+## 121. Prueba confirmar compra
+
+error xd
+
+## 122. Primeras pruebas 
+
+ver de nuevo
+- Cliente hace la solicitud 
+- Administrador asigna a un recolector 
