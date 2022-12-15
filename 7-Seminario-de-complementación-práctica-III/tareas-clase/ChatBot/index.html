@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/jquery.bxslider.css">
+  <link rel="stylesheet" href="css/estilo.css">
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+  <script src="js/app.js" defer></script>
+  <script src="js/response.js"></script>
+  <title>ChatBot - Inteligencia Artidicial</title>
+  <style>
+    #chatt {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <header class="header">
+    <h1 class="title">MARAVILLAS DEL MUNDO</h1>
+    <div class="slider">
+      <div><img src="Img/1.jpg" title="Machu Picchu"></div>
+      <div><img src="Img/6.jpg" title="La gran Muralla China"></div>
+      <div><img src="Img/3.jpg" title="Cristo Redentor"></div>
+      <div><img src="Img/9.jpg" title="Petra de Jordania"></div>
+      <div><img src="Img/7.jpg" title="Taj Mahal"></div>
+    </div>
+  </header>
+
+  <div class="botongrid">
+    <button class="botonmostrar" onclick="mostrar();"></button>
+  </div>
+
+  <div id="chatt" class="chatgrid">
+    <div class="contenedor">
+      <button class="botonocultar" onclick="ocultar();">X</button>
+      <div class="chat-header">
+        <div class="logo">
+          <img src="img/chatbot.png" alt="no imagen">
+        </div>
+        <div class="title">Ghost Robot</div>
+      </div>
+
+      <div class="chat-body"></div>
+      <div class="chat-input">
+        <div class="input-sec">
+          <input type="text" id="txtinput" placeholder="Escribe Aqui" autofocus />
+        </div>
+        <div class="send">
+          <img src="img/send.svg" alt="Enviar">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function mostrar() {
+      document.getElementById('chatt').style.display = 'block';
+    }
+
+    function ocultar() {
+      document.getElementById('chatt').style.display = 'none';
+    }
+  </script>
+
+
+  <script>
+    $('.slider').bxSlider({
+      autoControls: true,
+      auto: true,
+      pager: true,
+      slideWidth: 600,
+      mode: 'fade',
+      captions: true,
+      speed: 1000
+    });
+  </script>
+</body>
+
+</html>
