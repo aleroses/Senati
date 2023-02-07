@@ -31,12 +31,16 @@ Recolector 02:
 - Contraseña: lemmy1234
 
 Recolector 03:   
+- Nombres: Kurt Cobain 
+- Identificación: 0003 
+- Correo: kurt@mail.com
+- Contraseña: kurt1234
+
+Recolector 04:   
 - Nombres: Diego Alexis 
-- Identificación: 0003 - 12341234
+- Identificación: 0004 - 12341234
 - Correo: diego@mail.com
 - Contraseña: diego1234
-
-
 
 ## Productos añadidos 
 - Papel
