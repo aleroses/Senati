@@ -21,3 +21,15 @@ https://www.youtube.com/watch?v=9US8wCTiGog
 Curso: https://www.youtube.com/watch?v=XjG8QsTNBZw&list=PL6mdiqzGtgKkEP_0ISJqJZ0g4LY_yUZ-L
 
 https://www.youtube.com/watch?v=e0xcJZJxAVQ
+
+Crear Dedicatoria y Agradecimiento:     
+https://www.youtube.com/watch?v=X48lyLYW_L8
+
+Centrar texto verticalmente:     
+https://www.youtube.com/watch?v=Chn3h5kvSUY
+
+Como insertar índice:    
+https://www.youtube.com/watch?v=HQtiHwUPaXI
+
+Otro sobre indices:   
+https://www.youtube.com/watch?v=B5ApbUA16AM
