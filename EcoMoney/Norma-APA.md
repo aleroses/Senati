@@ -31,5 +31,11 @@ https://www.youtube.com/watch?v=Chn3h5kvSUY
 Como insertar índice:    
 https://www.youtube.com/watch?v=HQtiHwUPaXI
 
-Otro sobre indices:   
+Otro sobre indices - Más facil:   
 https://www.youtube.com/watch?v=B5ApbUA16AM
+
+Insertar índice de figuras y tablas:    
+https://www.youtube.com/watch?v=nFmQ82U7H1k
+
+Tablas:    
+https://www.youtube.com/watch?v=7Qx5NenVJTY
