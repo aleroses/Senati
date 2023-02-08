@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=nFmQ82U7H1k
 
 Tablas:    
 https://www.youtube.com/watch?v=7Qx5NenVJTY
+
+Citar y Referencias:    
+https://www.youtube.com/watch?v=h7nMcBPWrRY
