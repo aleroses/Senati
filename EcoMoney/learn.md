@@ -1,5 +1,8 @@
 # Proyecto de Innovación y/o Mejora  
 
+Buen día, soy Alexander Velásquez y voy a sustentar este proyecto con la colaboración de mi compañera Palacios Crisanto. Este proyecto se titula: 
+> Implementación de una App Móvil (Android) para administrar el reciclaje de materiales en la empresa Mr. JED Ingeniería y Desarrollo - Piura; 2022.
+
 ## 1. Introducción  
 Este proyecto fue desarrollado para la empresa Mr.JED Ingeniería y Desarrollo en nuestra estadía como practicantes, la cual se especializa en la prestación de servicios tales como:   
 - Instalación de cámaras
@@ -8,21 +11,36 @@ Este proyecto fue desarrollado para la empresa Mr.JED Ingeniería y Desarrollo e
 
 Dicha empresa nos encomendó desarrollar una aplicación móvil llamada `EcoMoney` para mejorar la gestión de los residuos reciclables en la ciudad de Piura. 
 
+Esta app consta de 3 partes: 
+- App Administrador
+- App Recolector
+- App Cliente
+
 ## 2. Objetivos  
 ### Objetivo General  
-El propósito principal del proyecto de innovación y mejora es mejorar la eficiencia en la recolección de residuos reciclables, adaptándose a las necesidades de los clientes mediante la implementación de tres aplicaciones móviles. De esta manera, se busca generar un impacto positivo tanto en el ámbito social como ambiental en la ciudad de Piura.
+Optimizar la recolección de residuos reciclables según la demanda de los clientes, a través, de la implementación de tres aplicaciones móviles generando un impacto socio ambiental en la ciudad de Piura.
 
-El objetivo general del proyecto es disminuir el desecho de residuos en las calles, generando un impacto socio ambiental positivo en la comunidad. 
+Debemos tener en cuanta que para alcanzar este objetivo necesitamos adaptarnos a las necesidades de los clientes, lo cual va de la mano con la frecuencia de recolección requerida.  
 
 ### Objetivos Específicos  
-Los objetivos específicos son diseñar y construir una aplicación móvil para el administrador, el recolector y el cliente, disminuir el desecho de residuos a las calles y generar satisfacción en los usuarios al recibir un incentivo según el volumen de material reciclable.
+- Diseñar y construir una aplicación móvil para el administrador, el recolector y para el cliente. 
+- Disminuir los desechos de residuos en las calles. 
+- Generar satisfacción en los usuarios al recibir un incentivo según el volumen de material reciclable.
 
 ## 3. Descripción de la innovación y/o mejora 
 Sabiendo que la ciudad de Piura enfrenta un problema constante de acumulación de basura en las calles debido a la mala gestión de la recolección de residuos sólidos, se decidió contribuir con el cuidado del ambiente mediante la implementación de tres aplicaciones móviles que gestionen e incentiven el reciclaje en los ciudadanos. 
 
-Este proyecto se desarrollo usando C#, Xamarin Forms y Firebase. 
+Este proyecto se desarrollo usando las siguiente tecnologías: 
+- Patron de software MVVM: Separa la lógica de presentación de los datos de la lógica de negocio (funcionalidades), facilitando el mantenimiento y la evolución de la aplicación.
+	- Model: representa los datos y la lógica de negocio de la aplicación.
+	- View: es la interfaz de usuario que permite la interacción con la aplicación.
+	- ViewModel: actúa como un intermediario entre la vista y el modelo, proporcionando una representación de los datos del modelo que la vista puede mostrar y manejar.
+- C#: Lenguaje de programación  
+- Xamarin forms: Lenguaje de marcado 
+- Firebase: Gratis, 5000 personas, no relacional (para pruebas)  
+- Google Maps  
 
-Estas son algunas características de las aplicaciones:  
+Algunas características:  
 1. App Administrador: Esta aplicación permitirá a los administradores de la empresa 
 	- Registrar recolectores contratados. 
 	- Registrar los materiales a recolectar. 
@@ -148,6 +166,29 @@ Retorno de Inversión de S/. 16 335.00
 El resultado se interpreta de la siguiente forma: “Por cada nuevo sol invertido en el proyecto la empresa ha de recuperar S/ 0.20”
 
 ## 12. Cronograma de Actividades 
+- Inicio: Modelado del negocio 
+	- Análisis de negocio: 
+		Aborda el manejo actual de los residuos y de su recolección. Se identifican problemas y se elabora Diagrama de Ishikawa y Diagrama de Pareto. 
+	- Modelado del negocio:  
+		Describe la situación actual de la recolección de residuos. Se elaboran Diagrama de paquetes y Diagrama de casos de uso. 
+- Elaboración: Factibilidad del proyecto  
+	- Análisis de requerimientos: 
+		Condiciones o características que debe cumplir un proyecto.
+		- Registro de clientes 
+		- Registro de materiales 
+	- Formulación del proyecto: 
+		Modelar el sistema: Objetivos y alcance del proyecto.
+	- Análisis de factibilidad:  
+		- F. Técnica: Máquinas, herramientas: $ 6 465.00
+		- F. Operativa: Recurso Humano: $ 7 200.00
+		- F. Económica: 
+- Construcción: Prototipado de las apps 
+	- Modelado del sistema: Diagrama de paquetes del sistema y Diagrama de casos de uso. 
+	- Implementación y Pruebas: Ver capturas en anexos
+- Transición: Lanzamiento de las apps 
+	- Despliegue del producto: Se prueba en dispositivos Android 
+	- Entrega del documentación 
+
 
 ## 13. Conclusiones  
 - La implementación de las aplicaciones móviles influye significativamente en el proceso de reciclaje en las familias, además, disminuirá los niveles de contaminación en la ciudad. 
