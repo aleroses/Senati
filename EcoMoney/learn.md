@@ -4,7 +4,7 @@ Buen día, soy Alexander Velásquez y voy a sustentar este proyecto con la colab
 > Implementación de una App Móvil (Android) para administrar el reciclaje de materiales en la empresa Mr. JED Ingeniería y Desarrollo - Piura; 2022.
 
 ## 1. Introducción  
-Este proyecto fue desarrollado para la empresa Mr.JED Ingeniería y Desarrollo en nuestra estadía como practicantes, la cual se especializa en la prestación de servicios tales como:   
+Este proyecto fue desarrollado para la empresa Mr.JED Ingeniería y Desarrollo en nuestra estadía como practicantes, empresa la cual se especializa en la prestación de servicios tales como:   
 - Instalación de cámaras
 - Soporte técnico
 - Desarrollo de software 
@@ -146,6 +146,9 @@ Analizando los datos:
 
 ## 9. Implementación | Planos de Proyecto 
 Anexo 3: pág. 76
+
+- [Código](https://github.com/alevroses/EcoMoney)
+- [Data Base](https://console.firebase.google.com/u/0/project/ecomoney-13888/database/ecomoney-13888-default-rtdb/data) 
 
 ## 10. Costos - Inversión 
 
