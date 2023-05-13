@@ -1,0 +1,6 @@
+- La construcción e implementación de una app móvil para el administrador quien gestiona y delega la recolección de material reciclable es vital para mejorar significativamente el proceso de reciclaje. 
+- La construcción e implementación de una app móvil para el recolector es fundamental para promover que los ciudadanos adopten el reciclaje como parte de su forma de vida. 
+- La construcción e implementación de una app móvil para el cliente permite influenciar positivamente el interés por el reciclaje al ver que puede obtener un beneficio económico de ello. 
+- El desarrollo de esta solución permite disminuir el desecho de residuos en las calles mejorando el proceso de recolección de material reciclable. 
+- El desarrollo de esta solución genera notable satisfacción en los usuarios al recibir un incentivo equivalente al volumen de material reciclable, lo cual promueve la economía del hogar.
+- El desarrollo de esta solución permite combatir la contaminación, incentivando la cultura del reciclaje usando herramientas como un dispositivo Android para adquirir el habito del reciclaje. 

@@ -42,6 +42,12 @@ Recolector 04:
 - Correo: diego@mail.com
 - Contraseña: diego1234
 
+Recolector 05:  
+- Miguel Hurtado 
+- 0005
+- miguel@mail.com
+- miguel1234
+
 ## Productos añadidos 
 - Papel
 - Plástico 
